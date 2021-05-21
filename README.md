@@ -1,3 +1,28 @@
+### Hi there 👋  
+
+![](https://komarev.com/ghpvc/?username=xiaoxiunique&color=green)
+
+<!--
+**xiaoxiunique/xiaoxiunique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+![whyour's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxiunique&count_private=true&show_icons=true)
+
+
+
+
+
 ### 个人简历
 
 1. 精通 java 研发，比较熟悉 python、shell 研发，熟悉 c，web 前端（HTML、Css、Js、Angular 等），Android 研发，教了解 C++、R、PHP、IOS 研发。精通常见设计模式、集合、多线程开发，线程安全、五种 IO 模型，精通 JVM 的结构和原理。
