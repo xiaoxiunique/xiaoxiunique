@@ -19,11 +19,3 @@ Here are some ideas to get you started:
 
 ![whyour's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxiunique&count_private=true&show_icons=true)
 
-
-
-
-
-### 个人简历
-
-1. 废物一枚
-
