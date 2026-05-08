@@ -50,11 +50,17 @@ Full-stack developer @ [IoTeX](https://iotex.io). Building tools around social m
 ## GitHub Stats
 
 <a href="">
-    <img height=160px src="https://github-readme-stats.vercel.app/api?username=xiaoxiunique&count_private=true&show_icons=true&theme=vue" />
+    <img height=160px src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaoxiunique&theme=vue" />
 </a>
 <a href="">
-    <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiunique&layout=compact" />
+    <img height=160px src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaoxiunique&theme=vue" />
 </a>
+
+<a href="">
+    <img width=680px src="https://streak-stats.demolab.com/?user=xiaoxiunique&theme=vue" />
+</a>
+
+<img width=680px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoxiunique&theme=vue" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoxiunique/xiaoxiunique/output/github-snake-dark.svg" />
